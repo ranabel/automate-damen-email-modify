@@ -2,7 +2,7 @@
 
 **Automate Modify Email System** <br> <br>
 To automate email sending with a modify a name or something in email body, it is essential to obtain a verification code (16-digit) for the email sender.
-![alt text](https://github.com/ranabel/automate-damen-email-modify/blob/complete/Image.png?raw=true)
+![alt text](https://github.com/ranabel/automate-damen-email-modify/blob/main/Image.png?raw=true)
 
 #Introduction
 This automated system is designed to send emails with modify text (whether it's a different name or other modifications). In order to activate the sender's email address, a 16-digit verification code is required.
