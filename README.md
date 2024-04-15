@@ -25,7 +25,7 @@ Check out source video tutorial on YouTube: [Tutorial](https://youtu.be/g_j6ILT-
 
 2. Clone the repository or download zip <br>
 ```bash
-git clone https://github.com/ranabel/automate-modify-email-damen.git
+git clone https://github.com/ranabel/automate-damen-email-modify.git
 ```
 3. Modify and fill in the subject, body, and CSV file according to the requirements of sending the email.
 4. In lines 9-10, don't forget to replace the email and password with the appropriate ones.
