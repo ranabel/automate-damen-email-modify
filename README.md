@@ -14,7 +14,7 @@ Please find `[Your 16-Digit Unique Verification Code]` <br>
 Check out source video tutorial on YouTube: [Tutorial](https://youtu.be/g_j6ILT-X0k?si=TdPFpQ6bMl_Aq1o0)
 
 # Tutorials
-1. In this repository, there are 2 file .py adn 2 file .csv used for different purposes, mainly employed to send emails to last year's participants.
+1. In this repository, there are 2 file .py adn 2 file .csv used for different purposes, to send a verification email with modify text (image or not).
 
   | Name file                   | Description                                                                     |
   | :--------------------       | :------------------------------------------------------------------------------ |
